@@ -4,11 +4,11 @@ public class T {
 	public static void main(String[] args) {
 
 		int num1 = 5, num2 = 15, sum;
-		int sum3;
+		int sum4;
 		sum = num1 + num2;
-		sum3=sum+num1;
+		sum4=sum+num1;
 
-		System.out.println("Sum of these numbers: " + sum + sum3);
+		System.out.println("Sum of these numbers: " + sum + sum4);
 	}
 
 }
